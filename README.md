@@ -10,6 +10,14 @@
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyskoniho&show_icons=true&layout=compact&langs_count=8&theme=synthwave&hide_border=true&title_color=1E90FF&bg_color=0d1117&locale=pt-br"/>
   </a>
  </div>
+ <br></br>
+ <div align="center" >
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+ </div>
+
 
 ##
 
