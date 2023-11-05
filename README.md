@@ -4,10 +4,10 @@
 
 <div align="center">
   <a href="https://github.com/hyskoniho/github-readme-stats">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hyskoniho&show_icons=true&theme=synthwave&hide_border=true&title_color=1E90FF&bg_color=0d1117&icon_color=1E90FF&locale=pt-br"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hyskoniho&count_private=true&show_icons=true&theme=synthwave&hide_border=true&title_color=1E90FF&bg_color=0d1117&icon_color=1E90FF&locale=pt-br"/>
   </a>
   <a href="https://github.com/hyskoniho/convoychat">
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyskoniho&show_icons=true&layout=compact&langs_count=8&theme=synthwave&hide_border=true&title_color=1E90FF&bg_color=0d1117&locale=pt-br"/>
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyskoniho&show_icons=true&count_private=true&layout=compact&langs_count=8&theme=synthwave&hide_border=true&title_color=1E90FF&bg_color=0d1117&locale=pt-br"/>
   </a>
  </div>
  <br></br>
