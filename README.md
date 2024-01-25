@@ -38,7 +38,7 @@
   <ul>
     <li>🌊 Sou morador de <b>Santos - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
     <li>🎶 Não vivo sem música;</li>
-    <li>💾 Tenho Python como minha linguagem primária, e as seguintes tecnologias: Flask, Selenium, PyAutoGUI, Tkinter;</li>
+    <li>💾 Tenho Python como minha linguagem primária, e as seguintes tecnologias: Flask, Selenium, PyAutoGUI, Pandas, Matplotlib;</li>
     <li>📖 Estou atualmente estudando ciência de dados</li>
     <li>⚡ Técnico em eletrotécnica e amante de eletroeletrônica;</li>
     <li>👥 Em busca de cursos e conhecimento!</li>
