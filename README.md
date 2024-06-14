@@ -13,7 +13,7 @@
  <br></br>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,arduino,c,html" />
+    <img src="https://skillicons.dev/icons?i=git,python,arduino,c,html,postgresql,figma" />
   </a>
  </p>
 
@@ -37,10 +37,10 @@
   <ul>
     <li>🌊 Sou morador de <b>Santos - SP, <img src="https://publicdomainvectors.org/photos/brasil_flag.png" width="13"/> Brazil</b>;</li>
     <li>🎶 Não vivo sem música;</li>
-    <li>💾 Tenho Python como minha linguagem primária, e as seguintes tecnologias: Flask, Selenium, PyAutoGUI, Pandas, Matplotlib;</li>
-    <li>📖 Estou atualmente estudando ciência de dados</li>
+    <li>💾 Tenho Python como minha linguagem primária, e as seguintes tecnologias: SQL, PowerBI, NoSQL;</li>
+    <li>📖 Estou atualmente estudando análise de dados</li>
     <li>⚡ Técnico em eletrotécnica e amante de eletroeletrônica;</li>
-    <li>👥 Em busca de cursos e conhecimento!</li>
+    <li>👥 Em busca de cursos e conhecimento constante!</li>
   </ul>
 </div>
 
