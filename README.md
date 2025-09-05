@@ -49,8 +49,8 @@
 
 <br>
 
-> “The best way to predict the future is to invent it.”
-― Peter F. Drucker
+> “The future cannot be predicted, but futures can be invented.”
+― [Dennis Garbor](https://www.goodreads.com/book/show/5055134-inventing-the-future)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&theme=synthwave&height=120&section=footer"/>
